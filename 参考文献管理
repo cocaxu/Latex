@@ -1,0 +1,6 @@
+利用bibtex进行参考文献排版，Bibtex使用方法【来自百度知道】
+https://jingyan.baidu.com/article/7e44095335ff172fc1e2ef11.html
+类似于在word中使用endnote对参考文献进行管理。
+在ctex中先创建引用bitlatex，然后建立bib文件，在将写好的文件用代码插入ctex中
+在endnote中创建好参考文献的格式，用规定的样式对参考文献进行格式化，然后成批量的插入。
+也可以根据会议或者期刊提供的模板，在ctex中一个文献一个文献的管理。
